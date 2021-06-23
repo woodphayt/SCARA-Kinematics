@@ -9,7 +9,7 @@ SCARA机器人运动学正逆解算法C++实现
 #### Linux
 ```shell
 git clone https://github.com/woodphayt/SCARA-Kinematics
-cd SCARA-Kinematics && mkdir build
+cd SCARA-Kinematics && mkdir build && cd build
 cmake ..
 make
 ./ah3_demo
